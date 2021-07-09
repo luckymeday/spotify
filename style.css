@@ -183,11 +183,9 @@ footer {
 }
 
 .box {
-  /* background-color: gray; */
   width: 60px;
   height: 60px;
   border-radius: 60px;
   display: flex;
   align-items: center;
-  /* order: -1; */
 }
